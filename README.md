@@ -25,6 +25,10 @@ def hello():
 이렇게
 ---
 
-[하이퍼링크는 대괄호 뒤에 소괄호]()
+[하이퍼링크는 대괄호 뒤에 소괄호 안에 주소 넣기]()
 
-![GitHub license](https://img.shields.io/badge/label-click-blue.sgv)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+|헤더|헤더|
+|---|---|
+|내용|내용|
