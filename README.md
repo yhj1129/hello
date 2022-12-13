@@ -27,4 +27,4 @@ def hello():
 
 [하이퍼링크는 대괄호 뒤에 소괄호]()
 
-![GitHub licence](https://img.shields.io/badge/label-click-blue.sgv)
+![GitHub license](https://img.shields.io/badge/label-click-blue.sgv)
