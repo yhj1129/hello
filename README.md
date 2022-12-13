@@ -16,7 +16,7 @@
 ## 팀원 소개
 | 유현주 |  |
 | -----| ---- |
-| [@HJoo|https://github.com/angrydeveloper) |  |
+| [@HJoo|https://github.com/yhj1129) |  |
 
 ## 프로젝트 설명
 
